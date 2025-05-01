@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-06cd02055fd733d52e83.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Restaurant-cashier-system",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "Restaurant-cashier-system::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Restaurant-cashier-system-Debug-bd2cc778e79c7bbb0a6d.json",
+					"name" : "Restaurant-cashier-system",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Restaurant-cashier-system_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Restaurant-cashier-system_autogen-Debug-dfe759e73ccca3673aaa.json",
+					"name" : "Restaurant-cashier-system_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Restaurant-cashier-system_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Restaurant-cashier-system_autogen_timestamp_deps-Debug-182d5efe515e07200632.json",
+					"name" : "Restaurant-cashier-system_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "F:/project/Restaurant-cashier-system/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug",
+		"source" : "F:/project"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}
