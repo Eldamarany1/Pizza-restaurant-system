@@ -1,0 +1,9 @@
+# ninja log v6
+17	867	7680757844977442	Restaurant-cashier-system_autogen/timestamp	6b38e9b419007086
+17	867	7680757844977442	Restaurant-cashier-system_autogen/mocs_compilation.cpp	6b38e9b419007086
+17	867	7680757844977442	F:/project/Restaurant-cashier-system/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/Restaurant-cashier-system_autogen/timestamp	6b38e9b419007086
+17	867	7680757844977442	F:/project/Restaurant-cashier-system/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/Restaurant-cashier-system_autogen/mocs_compilation.cpp	6b38e9b419007086
+872	3804	7680757845937886	CMakeFiles/Restaurant-cashier-system.dir/Restaurant-cashier-system_autogen/mocs_compilation.cpp.obj	820a27868fbb7374
+875	3852	7680757845967863	CMakeFiles/Restaurant-cashier-system.dir/main.cpp.obj	3332669eb7a65ce8
+878	4812	7680757845997733	CMakeFiles/Restaurant-cashier-system.dir/mainwindow.cpp.obj	d5928ceb1f8dc25
+4812	5192	7680757885332250	Restaurant-cashier-system.exe	c8e79b16c45dc406
